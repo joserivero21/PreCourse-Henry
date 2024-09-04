@@ -1,2 +1,2 @@
 # PreCourse-Henry
-este es un repositorio del modulo 2 del precurso de hernry
+este es un repositorio es una prueba de como clonar un repositorio en github a un repositorio local
